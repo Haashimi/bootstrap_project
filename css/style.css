@@ -1,0 +1,130 @@
+html, body{
+	font-family: sans-serif;
+	font-size: 14px;
+	background-color:  #f1f2f3
+}
+.banner{
+	background-color:  #800080;
+	color: white; 
+	height: 40px;
+}
+
+.location loc{
+	margin-top: 20px;
+}
+
+.tell{
+	padding-left: 10px;
+}
+.email{
+
+	padding-left: 10px;
+}
+/*.log{
+	height: 4px;
+}*/
+.nabar{
+	height: 60px;
+	background-color: white;
+	
+	
+}
+.header{
+	background-color: white;
+	height: 100px;
+}
+
+.menues li{
+	list-style: none;
+	float: left;
+	p
+
+
+}
+.menues a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+
+
+
+}
+#bs-example-navbar-collapse-1 a{
+	font-size: 14px;
+	color: black;
+
+}
+
+.menues  li{
+list-style-position: outside;
+
+}
+.bidix{
+	background-color: white;
+	width: 350px;
+	height: 250px;
+	border: ridge;
+	margin-left: 30px;
+}
+
+.dhex{
+	background-color: white;
+	width: 350px;
+	height: 250px;
+	border: ridge;
+	margin-left: 30px;
+}
+
+.midig{
+	background-color: white;
+	width: 350px;
+	height: 250px;
+	border: ridge;
+	margin-left: 30px;
+}
+ 
+ .adeegyo{
+
+ 	padding-left: 100px;
+ 	text-align: center;
+ }
+ #tit{
+	text-align: center;
+	color: #ff00bf
+}
+
+.dhexda{
+	margin-left: 30px;
+}
+.qiiimo{
+	background-color:  #008ae6;
+	color:white;
+	margin-top: 10px;
+	padding-left: 20px;
+
+}
+
+.qiiimo h1{
+	padding-left: 110px;
+
+
+}
+.qiiimo p{
+	padding-left: 50px;
+	
+
+}
+
+.wararka{
+	text-align: center;
+}
+.wararka h2{
+	color: #800080
+
+}
+.sawir{
+	margin-left: 70px;
+}
+.course h2{
+	color: #800080 
+}
